@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'TTCommonsPro-Normal';
+  src: url('../fonts/TT-Commons-Pro-Normal.woff2') format('woff2');
+  font-weight: 450;
+}
+
+@font-face {
+  font-family: 'TTCommonsPro-Medium';
+  src: url('../fonts/TT-Commons-Pro-Medium.woff2') format('woff2');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'TTCommonsPro-DemiBold';
+  src: url('../fonts/TT-Commons-Pro-DemiBold.woff2') format('woff2');
+  font-weight: 600;
+}
